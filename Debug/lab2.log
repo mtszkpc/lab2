@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ja\desktop\c++ zadania moodle\lab2\lab2\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\lab2\lab2\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\ja\desktop\c++ zadania moodle\lab2\lab2\source.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  lab2.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab2\Debug\lab2.exe
+  lab2.vcxproj -> C:\Users\Ja\Desktop\C++ zadania moodle\lab2\Debug\lab2.pdb (Full PDB)
